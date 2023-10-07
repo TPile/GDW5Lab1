@@ -142,7 +142,6 @@
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab2/Content/Blueprints/Character_Folder/InputActions_Folder/IA_Move.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab2/Content/Blueprints/Character_Folder/InputActions_Folder/IA_Look.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab2/Content/Blueprints/Character_Folder/InputActions_Folder/IA_Jump.uasset",
-				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab2Level_HLOD0_Instancing.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Turret/BP_Turret.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/MyFunctionLibrary.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab3Level_HLOD0_Instancing.uasset",
@@ -278,6 +277,14 @@
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/__ExternalActors__/Lab3Level/9/Q5/2A986CF60XSDUQ6D32JTKI.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab3Level.umap",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Turret/Bullet.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab4Level.umap",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/SampleTestOne.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/LandScapeOne.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab4Level_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab4Level_sharedassets/Rock_LayerInfo.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab4Level_sharedassets/Sand_LayerInfo.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab4Level_sharedassets/Path_LayerInfo.uasset",
+				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab1/GDW5Lab2/Content/Lab2Level_HLOD0_Instancing.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab2/Content/__ExternalActors__/Lab2Level/D/W6/26ZY53WY3X63GRTRCUAQ5N.uasset",
 				"C:/Uni/third year/Semester 1/GDW/Labs/GDW5Lab2/Content/Blueprints/Character_Folder/IMC_Default1.uasset"
 			]
